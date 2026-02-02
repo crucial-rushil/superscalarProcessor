@@ -1,7 +1,7 @@
 # Out-of-Order Superscalar Processor Simulator
 
 ## Overview
-This project implements a **cycle-accurate C++ simulator for an out-of-order superscalar processor**, developed as part of a computer architecture course. The simulator models instruction-level parallelism and realistic microarchitectural behavior while executing traces with over **10,000 dynamic instructions**.
+This project from UCLA CS 116C implements a **cycle-accurate C++ simulator for an out-of-order superscalar processor**, developed as part of a computer architecture course. The simulator models instruction-level parallelism and realistic microarchitectural behavior while executing traces with over **10,000 dynamic instructions**.
 
 The focus of the project is correctness, timing accuracy, and performance analysis under different architectural configurations.
 
